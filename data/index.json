@@ -1,0 +1,97 @@
+{
+  "jobtitle": [{ "title": "Certified baddie aspiring developer" }],
+  "about": [
+    "I am a unique and talented individual with a passion for software development .As a young software developer I'm fueled by innovation and a drive for making a difference through technology.With a solid foundation to programming fundamentals and a keen interest in emerging trends I'm constantly expanding my skills to stay ahead of the curve.I take pride in delivering high-quality projects that meet and exceed expectations. I'm always eager to take on new challenges and learn from them. I am eager to contribute to the tech community and make  mark in software development"
+  ],
+  "education": [
+    {
+      "institution": "Mondale",
+      "year": "2023",
+      "img_url": "https://chelsea-julie.github.io/all-images/images/IMG.5jpg.jpg",
+      "paragraph": " I completed my schooling at Mondale high in 2023. I matriculated with a certificate in computer literacy which include: Windows 10, Microsoft Word 2019, Microsoft Excel 2019, Microsoft PowerPoint 2019 and Google services."
+    }
+  ],
+  "experiences": [
+    {
+      "institution": "Life Choices Academy",
+      "year": "2024",
+      "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-3.jpg",
+      "paragraph": " A Bootcamp program that teachers you the essentials of web development. I am learning the principles of web development at the bootcamp, and I am also gaining important leadership skills in interpersonal skills training. "
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "pro-effeciency": "Senior",
+      "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+      "paragraph": " I am a web developer with a passion for software development. I am eager to contribute to the tech community and make a mark in software development."
+    },
+    {
+        "name": "CSS",
+        "pro-effeciency": "Senior",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+        "paragraph": " I am a web developer with a passion for software development. I am eager to contribute to the tech community and make a mark in software development."
+      },
+      {
+        "name": "Figma",
+        "pro-effeciency": "Senior",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+        "paragraph": " I am a web developer with a passion for software development. I am eager to contribute to the tech community and make a mark in software development."
+      }
+
+  ],
+  "testimonial": [
+    {
+        "name": "Keira Kistensamy",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+        "paragraph": " Chelsea Julie's ability to work effectively with others, combined with her kindness and warmth makes her a valuable asset on any team.She is a conscientious, hard working and goal directed.Show's initiative and enjoys seeing projects through to positive conclusions. "
+
+    },
+    {
+        "name": "Erin Caitlin Williams",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+        "paragraph": " I've had the pleasure of working with Chelsea Julie, and I can confidently say she's an exceptional person.she brings a strong work ethic, dedication and commitment to everything she does. "
+
+    },
+    {
+        "name": "Awodwa Hendricks",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+        "paragraph": "Chelsea's passion and drive are evident in her approach to her work, and she's always willing to adapt.she is a dedicated worker and commited to completing her task. "
+
+    },
+    {
+        "name": "Daniel Umetor",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+        "paragraph": "It's been a pleasure to work alongside Chelsea and see her dedication to her work firsthand. I have no doubt she'll exeed in and role she'll take on.She worls well under pressure and finds pleasure in finding answers to abrasive situations. "
+
+    },
+    {
+        "name": "Valhatiem Raynard",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+        "paragraph": " I really admired Chelsea for the active role she took in her studies. She never lost sight of it. She was very punctual and showed up to every one of my classes on time. Chelsea is a very hard worker and produces excellent results while in my class.She will be able to work well in any organisation. "
+
+    }
+  ],
+  "projects": [
+    {
+      "name": "Calculator",
+      "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+      "description": "A virtual calaculator that I designed and made function",
+    },
+    {
+      "name": "BMI calculator",
+      "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+      "description": "A calculator that is used to calculate if you are an healthy weight or not",
+    },
+    {
+      "name": "Keyboard",
+      "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+      "description": "The design of the keyboard without the functionality of a keyboard",
+    },
+    {
+      "name": "Calculator",
+      "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+      "description": ""
+    }
+  ]
+}
