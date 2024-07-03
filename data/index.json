@@ -27,7 +27,7 @@
   ],
   
   "education": [ 
-    {
+    {       "id": 1,
             "institution": "Mondale High School",
             "Qualification": "National Senior Certificate",
             "year": "2023",
@@ -36,7 +36,7 @@
             "completed" : true
       },
 
-      {
+      {   "id": 2,
           "institution": "Life Choices",
           "Qualification": "NQF Level 5",
           "Year": 2024,
