@@ -28,16 +28,20 @@
   
   "education": [ 
     {
-            "institution": "Mondale",
+            "institution": "Mondale High School",
+            "Qualification": "National Senior Certificate",
             "year": "2023",
             "img_url": "https://chelsea-julie.github.io/all-images/images/IMG.5jpg.jpg",
-            "paragraph": " I completed my schooling at Mondale high in 2023. I matriculated with a certificate in computer literacy which include: Windows 10, Microsoft Word 2019, Microsoft Excel 2019, Microsoft PowerPoint 2019 and Google services."
+            "paragraph": " I completed my schooling at Mondale high in 2023. I matriculated with a certificate in computer literacy which include: Windows 10, Microsoft Word 2019, Microsoft Excel 2019, Microsoft PowerPoint 2019 and Google services.",
+            "completed" : true
       },
 
       {
-          "Institution": "Life Choices",
+          "institution": "Life Choices",
           "Qualification": "NQF Level 5",
           "Year": 2024,
+          "img_url": "https://chelsea-julie.github.io/all-images/images/IMG.5jpg.jpg",
+          "paragraph" :" A Bootcamp program that teachers you the essentials of web development. I am learning the principles of web development at the bootcamp, and I am also gaining important leadership skills in interpersonal skills training. ",
           "completed": false
       }
   ],
