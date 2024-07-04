@@ -55,6 +55,25 @@
           "status": "in progress",
           "durationInMonths": 12,
           "paragraph": " A Bootcamp program that teachers you the essentials of web development. I am learning the principles of web development at the bootcamp, and I am also gaining important leadership skills in interpersonal skills training. "
+      },
+      {
+          "company": "Good Hope Christians",
+          "title": "Facilitator",
+          "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-3.jpg",
+          "year": 2020,
+          "status": "in progress",
+          "durationInMonths": 2,
+          "paragraph": ""
+
+      },
+      {
+          "company": "bella guardian angels",
+          "title": "Volunteer",
+          "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-3.jpg",
+          "year": 2022,
+          "status": "in progress",
+          "durationInMonths": 1,
+          "paragraph": " A Bootcamp program that teachers you the essentials of web development. I am learning the principles of web development at the bootcamp, and I am also gaining important leadership skills in interpersonal skills training. "
       }
   ]
   ,
@@ -138,6 +157,16 @@
             "name": "Keyboard",
             "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
             "description": "The design of the keyboard without the functionality of a keyboard"
+          },
+          {
+            "name": "Bootstrap Portfolio" ,
+            "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+            "description": "This is a digital portfolio built using Bootstrap, HTML and CSS"
+          },
+          {
+            "name": "Celestials",
+            "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-2.jpg",
+            "description": "This is a Ecommerce website that is designed using HTML & CSS and functions using JS"
           }
   ]
 }
