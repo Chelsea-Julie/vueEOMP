@@ -152,37 +152,43 @@
             "name": "Calculator",
             "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/calulator.jpg",
             "github" : "https://github.com/Chelsea-Julie/Calculator.git",
-            "description": "A virtual calaculator that I designed and made function"
+            "description": "A virtual calaculator that I designed and made function",
+            "vercel": "https://calculator-gray-nu-55.vercel.app/"
           },
           {
             "name": "BMI calculator",
             "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/bmicalculator.jpg",
             "github" : "https://github.com/Chelsea-Julie/BMIcalculator.git",
-            "description": "A calculator that is used to calculate if you are an healthy weight or not"
+            "description": "A calculator that is used to calculate if you are an healthy weight or not",
+            "vercel": "https://bm-icalculator-six.vercel.app/"
           },
           {
             "name": "Keyboard",
             "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/keyboard.jpg",
             "github" : "https://github.com/Chelsea-Julie/calculateSalary.git",
-            "description": "The design of the keyboard without the functionality of a keyboard"
+            "description": "The design of the keyboard without the functionality of a keyboard",
+            "vercel": "https://keyboard-gamma-one.vercel.app/"
           },
           {
             "name": "Bootstrap Portfolio" ,
             "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/portfolio.jpg",
             "github": "",
-            "description": "This is a digital portfolio built using Bootstrap, HTML and CSS"
+            "description": "This is a digital portfolio built using Bootstrap, HTML and CSS",
+            "vercel": "https://chelsea-s-portfolio-mria.vercel.app/"
           },
           {
             "name": "Celestials",
             "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/celestials.jpg",
             "github" : "https://github.com/Chelsea-Julie/Celestials.git",
-            "description": "This is a Ecommerce website that is designed using HTML & CSS and functions using JS"
+            "description": "This is a Ecommerce website that is designed using HTML & CSS and functions using JS",
+            "vercel": "https://celestials-lz6p.vercel.app/"
           },
           {
             "name": "Hangman",
             "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/hangman.jpg",
             "github" : "https://github.com/Chelsea-Julie/hangman.git",
-            "description": "This is a hangman game I created using HTML, CSS and JavaScript"
+            "description": "This is a hangman game I created using HTML, CSS and JavaScript",
+            "vercel": "https://hangman-three-opal.vercel.app/"
           }
           
   ]
