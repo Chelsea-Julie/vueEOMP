@@ -81,14 +81,14 @@
       {
           "name": "HTML",
           "pro-effeciency": "beginner",
-          "projectsCompleted": 6,
+          "projectsCompleted": 2,
           "projects" : [ "Bootstrap Portfolio", "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
           "summary": "Proficient in structuring web pages with HTML, including forms, tables, and multimedia elements. Experienced in creating responsive layouts and integrating with CSS and JavaScript for dynamic content."
       },
       {
           "name": "CSS",
           "pro-effeciency": "below beginner",
-          "projectsCompleted": 5,
+          "projectsCompleted": 3,
           "projects" : [ "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
           "summary": "Basic understanding of CSS for styling web pages, focusing on layout, colors, fonts, and responsive design. Has applied CSS to enhance user interfaces and improve visual appeal."
       },
@@ -105,7 +105,23 @@
           "projectsCompleted": 1,
           "projects" : [ "Bootstrap Portfolio"],
           "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
-      }
+      },
+      {
+        "name": "Figma",
+        "pro-effeciency": "beginner",
+        "projectsCompleted": 1,
+        "projects" : [ "Bootstrap Portfolio"],
+        "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
+    },
+    {
+        "name": "GitHub",
+        "pro-effeciency": "beginner",
+        "projectsCompleted": 1,
+        "projects" : [ "Bootstrap Portfolio"],
+        "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
+    }
+
+
   ]
   ,
 
