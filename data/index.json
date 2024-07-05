@@ -48,23 +48,13 @@
           "paragraph": " A Bootcamp program that teachers you the essentials of web development. I am learning the principles of web development at the bootcamp, and I am also gaining important leadership skills in interpersonal skills training. "
       },
       {
-          "company": "Good Hope Christians",
-          "title": "Facilitator",
-          "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-3.jpg",
-          "year": 2020,
-          "status": "in progress",
-          "durationInMonths": 2,
-          "paragraph": ""
-
-      },
-      {
           "company": "bella guardian angels",
           "title": "Volunteer",
           "img_url": "https://chelsea-julie.github.io/all-images/images/IMG-3.jpg",
           "year": 2022,
           "status": "in progress",
           "durationInMonths": 1,
-          "paragraph": " A Bootcamp program that teachers you the essentials of web development. I am learning the principles of web development at the bootcamp, and I am also gaining important leadership skills in interpersonal skills training. "
+          "paragraph": "Volunteering at the dog shelter is deeply rewarding. It's a joy to spend time with the dogs, knowing I'm making a positive impact on their lives and being part of a caring community of volunteers. "
       }
   ]
   ,
@@ -132,7 +122,7 @@
       
           },
           {
-              "name": "Erin Caitlin Williams",
+              "name": "Erin Williams",
               "img_url": "https://chelsea-julie.github.io/all-images/images/Humans/Erin.jpg",
               "paragraph": " I've had the pleasure of working with Chelsea Julie, and I can confidently say she's an exceptional person.she brings a strong work ethic, dedication and commitment to everything she does. "
       
@@ -154,7 +144,7 @@
               "img_url": "https://chelsea-julie.github.io/all-images/images/Humans/Raynard.jpg",
               "paragraph": " I really admired Chelsea for the active role she took in her studies. She never lost sight of it. She was very punctual and showed up to every one of my classes on time. Chelsea is a very hard worker and produces excellent results while in my class.She will be able to work well in any organisation. "
       
-         }
+         },
   ],
 
   "projects": [
