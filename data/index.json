@@ -5,23 +5,14 @@
           "title" : "Aspiring Developer",
           "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
       } ,
-
       {
-          "title" : "Certified Baddie",
-          "description" :"Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
-      },
-      
-      {
-          "title" : "Web Developer",
-          "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
-      },
-      {
-          "title" : "Content Creator",
+          "title" : "Aspiring Web Developer",
           "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem, quaerat. Lorem ipsum dolor sit amet consectetur adipisicing elit"
       }
+   
   ],
   "About": [
-     "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Placeat nobis tempora vel. Voluptates assumenda aliquid eligendi aspernatur ex repellendus fuga beatae voluptas pariatur magnam quia quae, minima saepe officiis labore repellat vitae ad dolorum, deleniti hic mollitia non? Eum laborum veniam voluptas mollitia at quibusdam ad nam dolores accusantium minus illo laudantium, magnam sapiente dolore dolor esse. Assumenda maxime inventore eaque pariatur quibusdam unde nobis, iste nulla quisquam blanditiis temporibus!",
+     "I am a passionate and dedicated individual with a strong desire to make a positive impact on the world. I have a deep love for learning and I am always eager to expand my knowledge and skills. I am a natural problem solver and I thrive on challenging situations. I am currently pursuing a Bachelor of Computer Science at the University of Bristol. My goal is to contribute to the tech industry and make a positive impact on the world.",
      "I am a unique and talented individual with a passion for software development .As a young software developer I'm fueled by innovation and a drive for making a difference through technology.With a solid foundation to programming fundamentals and a keen interest in emerging trends I'm constantly expanding my skills to stay ahead of the curve.I take pride in delivering high-quality projects that meet and exceed expectations. I'm always eager to take on new challenges and learn from them. I am eager to contribute to the tech community and make mark in software development."
       
   ],
@@ -81,6 +72,7 @@
       {
           "name": "HTML",
           "pro-effeciency": "intermediate",
+          "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/html.png",
           "projectsCompleted": 2,
           "projects" : [ "Bootstrap Portfolio", "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
           "summary": "Proficient in structuring web pages with HTML, including forms, tables, and multimedia elements. Experienced in creating responsive layouts and integrating with CSS and JavaScript for dynamic content."
@@ -88,6 +80,7 @@
       {
           "name": "CSS",
           "pro-effeciency": "intermediate",
+          "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/css.png",
           "projectsCompleted": 3,
           "projects" : [ "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
           "summary": "Basic understanding of CSS for styling web pages, focusing on layout, colors, fonts, and responsive design. Has applied CSS to enhance user interfaces and improve visual appeal."
@@ -95,6 +88,7 @@
       {
           "name": "Javascript",
           "pro-effeciency": "intermediate",
+          "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/javaScript.jpg",
           "projectsCompleted": 3,
           "projects" : [ "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
           "summary": "Skilled in JavaScript for creating interactive web experiences. Proficient in DOM manipulation, event handling, and asynchronous programming. Implemented functionality like calculators and data processing."
@@ -102,6 +96,7 @@
       {
           "name": "Bootstrap",
           "pro-effeciency": "intermediate",
+          "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/bootstrap.png",
           "projectsCompleted": 1,
           "projects" : [ "Bootstrap Portfolio"],
           "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
@@ -109,17 +104,21 @@
       {
         "name": "Figma",
         "pro-effeciency": "intermediate",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/figma.png",
         "projectsCompleted": 1,
         "projects" : [ "Bootstrap Portfolio"],
-        "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
+        "summary": " I showcase my intermediate-level proficiency in Figma for designing user interfaces and creating interactive prototypes. I demonstrate how Figma facilitates collaborative design processes and helps me create intuitive digital experiences that blend creativity with functionality."
     },
     {
-        "name": "GitHub",
+        "name": "Github",
         "pro-effeciency": "intermediate",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/github.jpg",
         "projectsCompleted": 1,
         "projects" : [ "Bootstrap Portfolio"],
-        "summary": "Familiar with Bootstrap framework for building responsive and mobile-first websites. Developed a portfolio site using Bootstrap’s grid system, components, and utilities for effective front-end development."
+        "summary": " I demonstrate my use of GitHub to showcase coding projects and collaborate on code with others. I highlight how GitHub repositories reflect my growth as an intermediate developer, showcasing my commitment to clean, well-documented code and effective version control practices."
     }
+
+
 
 
   ]
