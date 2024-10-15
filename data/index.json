@@ -170,11 +170,11 @@
             "vercel": "https://keyboard-gamma-one.vercel.app/"
           },
           {
-            "name": "Bootstrap Portfolio" ,
-            "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/portfolio.jpg",
-            "github": "",
-            "description": "This is a digital portfolio built using Bootstrap, HTML and CSS",
-            "vercel": "https://chelsea-s-portfolio-mria.vercel.app/"
+            "name": "Todo List" ,
+            "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/todo.jpg",
+            "github": "https://github.com/Chelsea-Julie/todoList.git",
+            "description": "This is a digital todo list built using HTML, CSS and Javascript",
+            "vercel": "https://todo-list-9r4c.vercel.app/"
           },
           {
             "name": "Celestials",
@@ -184,12 +184,13 @@
             "vercel": "https://celestials-lz6p.vercel.app/"
           },
           {
-            "name": "Hangman",
-            "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/hangman.jpg",
-            "github" : "https://github.com/Chelsea-Julie/hangman.git",
-            "description": "This is a hangman game I created using HTML, CSS and JavaScript",
-            "vercel": "https://hangman-three-opal.vercel.app/"
+            "name": "Paws and Play",
+            "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/doggy.jpg",
+            "github" : "https://github.com/Chelsea-Julie/paws-and-play.git",
+            "description": "This is a booking system website that was designed using Vue, CSS and functions using JS",
+            "vercel": "https://paws-and-play-a6d80.web.app/"
           }
           
   ]
 }
+
