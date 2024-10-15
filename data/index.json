@@ -106,8 +106,40 @@
         "projectsCompleted": 1,
         "projects" : [ "Bootstrap Portfolio"],
         "summary": " I demonstrate my use of GitHub to showcase coding projects and collaborate on code with others. I highlight how GitHub repositories reflect my growth as an intermediate developer, showcasing my commitment to clean, well-documented code and effective version control practices."
+    },
+    {
+        "name": "Node JS",
+        "pro-effeciency": "intermediate",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/developer.png",
+        "projectsCompleted": 1,
+        "projects" : [ "Bootstrap Portfolio"],
+        "summary": " I demonstrate my use of GitHub to showcase coding projects and collaborate on code with others. I highlight how GitHub repositories reflect my growth as an intermediate developer, showcasing my commitment to clean, well-documented code and effective version control practices."
+    },
+    {
+        "name": "Vue JS",
+        "pro-effeciency": "intermediate",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/document.png",
+        "projectsCompleted": 1,
+        "projects" : [ "Bootstrap Portfolio"],
+        "summary": " I demonstrate my use of GitHub to showcase coding projects and collaborate on code with others. I highlight how GitHub repositories reflect my growth as an intermediate developer, showcasing my commitment to clean, well-documented code and effective version control practices."
+    },
+    {
+        "name": "MYSQL",
+        "pro-effeciency": "intermediate",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/mysql.png",
+        "projectsCompleted": 1,
+        "projects" : [ "Bootstrap Portfolio"],
+        "summary": " I demonstrate my use of GitHub to showcase coding projects and collaborate on code with others. I highlight how GitHub repositories reflect my growth as an intermediate developer, showcasing my commitment to clean, well-documented code and effective version control practices."
+    },
+    {
+        "name": "Canva",
+        "pro-effeciency": "intermediate",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/palette.png",
+        "projectsCompleted": 1,
+        "projects" : [ "Bootstrap Portfolio"],
+        "summary": " I demonstrate my use of GitHub to showcase coding projects and collaborate on code with others. I highlight how GitHub repositories reflect my growth as an intermediate developer, showcasing my commitment to clean, well-documented code and effective version control practices."
     }
-
+    
 
 
 
