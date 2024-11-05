@@ -78,7 +78,7 @@
       {
           "name": "Javascript",
           "pro-effeciency": "intermediate",
-          "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/javaScript.jpg",
+          "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/java-script (1).png",
           "projectsCompleted": 3,
           "projects" : [ "Ecommerce website", "Calculate salary", "Calculator", "Temperature Convertor ", "BMI Calculator"],
           "summary": "Skilled in JavaScript for creating interactive web experiences. Proficient in DOM manipulation, event handling, and asynchronous programming. Implemented functionality like calculators and data processing."
@@ -102,7 +102,7 @@
     {
         "name": "Github",
         "pro-effeciency": "intermediate",
-        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/github.jpg",
+        "img_url": "https://chelsea-julie.github.io/all-images/images/vue-eomp/github (3).png",
         "projectsCompleted": 1,
         "projects" : [ "Bootstrap Portfolio"],
         "summary": " I demonstrate my use of GitHub to showcase coding projects and collaborate on code with others. I highlight how GitHub repositories reflect my growth as an intermediate developer, showcasing my commitment to clean, well-documented code and effective version control practices."
